@@ -1,4 +1,2 @@
 this is file5.txt c reated in newfeature branch
-Extra text for merge conflict
-text 1
-
+here comes the conflict
